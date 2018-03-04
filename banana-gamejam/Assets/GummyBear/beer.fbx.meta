@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: edba63761b35dd743aea0d2ced4e6889
+timeCreated: 1520092006
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DEF-breast_L
+    100004: DEF-breast_R
+    100006: DEF-foot_L
+    100008: DEF-foot_R
+    100010: DEF-forearm_L
+    100012: DEF-forearm_L_001
+    100014: DEF-forearm_R
+    100016: DEF-forearm_R_001
+    100018: DEF-hand_L
+    100020: DEF-hand_R
+    100022: DEF-pelvis_L
+    100024: DEF-pelvis_R
+    100026: DEF-shin_L
+    100028: DEF-shin_L_001
+    100030: DEF-shin_R
+    100032: DEF-shin_R_001
+    100034: DEF-shoulder_L
+    100036: DEF-shoulder_R
+    100038: DEF-spine
+    100040: DEF-spine_001
+    100042: DEF-spine_002
+    100044: DEF-spine_003
+    100046: DEF-spine_004
+    100048: DEF-spine_005
+    100050: DEF-spine_006
+    100052: DEF-thigh_L
+    100054: DEF-thigh_L_001
+    100056: DEF-thigh_R
+    100058: DEF-thigh_R_001
+    100060: DEF-toe_L
+    100062: DEF-toe_R
+    100064: DEF-upper_arm_L
+    100066: DEF-upper_arm_L_001
+    100068: DEF-upper_arm_R
+    100070: DEF-upper_arm_R_001
+    100072: MCH-spine
+    100074: MCH-spine_001
+    100076: MCH-spine_002
+    100078: MCH-spine_003
+    100080: ORG-breast_L
+    100082: ORG-breast_R
+    100084: ORG-pelvis_L
+    100086: ORG-pelvis_R
+    100088: ORG-shoulder_L
+    100090: ORG-shoulder_R
+    100092: ORG-spine
+    100094: ORG-spine_003
+    100096: RetopoGroup1_001
+    100098: rig
+    100100: root
+    100102: torso
+    100104: tweak_spine
+    100106: tweak_spine_003
+    400000: //RootNode
+    400002: DEF-breast_L
+    400004: DEF-breast_R
+    400006: DEF-foot_L
+    400008: DEF-foot_R
+    400010: DEF-forearm_L
+    400012: DEF-forearm_L_001
+    400014: DEF-forearm_R
+    400016: DEF-forearm_R_001
+    400018: DEF-hand_L
+    400020: DEF-hand_R
+    400022: DEF-pelvis_L
+    400024: DEF-pelvis_R
+    400026: DEF-shin_L
+    400028: DEF-shin_L_001
+    400030: DEF-shin_R
+    400032: DEF-shin_R_001
+    400034: DEF-shoulder_L
+    400036: DEF-shoulder_R
+    400038: DEF-spine
+    400040: DEF-spine_001
+    400042: DEF-spine_002
+    400044: DEF-spine_003
+    400046: DEF-spine_004
+    400048: DEF-spine_005
+    400050: DEF-spine_006
+    400052: DEF-thigh_L
+    400054: DEF-thigh_L_001
+    400056: DEF-thigh_R
+    400058: DEF-thigh_R_001
+    400060: DEF-toe_L
+    400062: DEF-toe_R
+    400064: DEF-upper_arm_L
+    400066: DEF-upper_arm_L_001
+    400068: DEF-upper_arm_R
+    400070: DEF-upper_arm_R_001
+    400072: MCH-spine
+    400074: MCH-spine_001
+    400076: MCH-spine_002
+    400078: MCH-spine_003
+    400080: ORG-breast_L
+    400082: ORG-breast_R
+    400084: ORG-pelvis_L
+    400086: ORG-pelvis_R
+    400088: ORG-shoulder_L
+    400090: ORG-shoulder_R
+    400092: ORG-spine
+    400094: ORG-spine_003
+    400096: RetopoGroup1_001
+    400098: rig
+    400100: root
+    400102: torso
+    400104: tweak_spine
+    400106: tweak_spine_003
+    2100000: Default__Beer_Albedo_tga
+    4300000: RetopoGroup1_001
+    7400000: Default Take
+    7400002: Jump
+    7400004: Run
+    7400006: Slam
+    9500000: //RootNode
+    13700000: RetopoGroup1_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
